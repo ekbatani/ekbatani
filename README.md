@@ -1,6 +1,6 @@
 #### My enjoyment is to research and learn new stuff. So choosing web developer as career is the best way to enjoying my life.
 
-- 🔭 I’m currently working on Karafarin Insurance 2543 Agent - C.T.O.
+- 🔭 I’m currently working on FadakTrains.com
 - 🌱 I’m currently learning blockchain technology.
 - 💬 Ask me about everything you want. (not everything ...)
 - 📫 How to reach me: https://ekbatani.github.io/
